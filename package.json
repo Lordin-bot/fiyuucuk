@@ -1,0 +1,26 @@
+{
+  "name": "-asdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fiyu.js",
+  "scripts": {
+    "start": "node fiyu.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^3.0.0",
+    "mongoose": "^5.12.7",
+    "dbdjs.mongo": "^1.0.1",
+    "dbdjs.db": "^1.0.4",
+    "turkce.db": "^1.0.5",
+    "yt-search": "^2.7.6",
+    "moment": "^2.29.1",
+    "ms-parser": "^1.0.5",
+    "parse-ms": "^2.1.0",
+    "ms": "^2.1.3"
+  }
+}
